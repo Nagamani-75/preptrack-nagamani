@@ -33,3 +33,27 @@ PrepTrack is a Python console application that analyzes a student's placement pr
 - break and continue statements
 - Arithmetic Operations
 - Formatted String Literals (f-strings)
+
+
+## How to Run
+
+1. Clone the repository.
+
+2. Open the project folder.
+
+3. Run the program:
+
+```bash
+python main.py
+```
+
+If `python` doesn't work, use:
+
+```bash
+python3 main.py
+```
+
+
+## Test Result Summary
+
+The application was tested with different input combinations including valid inputs, invalid inputs, absent days, passing scores, failing scores, and critical scores. The program correctly validated user inputs, processed all seven practice days, calculated statistics, and generated the expected placement readiness report.

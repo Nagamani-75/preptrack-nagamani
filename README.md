@@ -111,3 +111,20 @@ The code was reviewed for readability, input validation, loop logic, and overall
 - Improved input validation.
 - Corrected placement readiness conditions.
 - Enhanced report formatting for better readability.
+
+## Team Member Directory  (Team Lead)
+
+| Member Name | GitHub Profile Link | PrepTrack Repository Link | Submission Status |
+|-------------|---------------------|---------------------------|-------------------|
+| Nagamani P| https://github.com/Nagamani-75 | https://github.com/Nagamani-75/preptrack-nagamani | Completed |
+| V.Veeranjaneyulu |https://github.com/veera5423 |https://github.com/veera5423/preptrack-veera.git | Completed |
+| Member 3 | || Completed |
+| Member 4 | | | Completed/Pending |
+| Member 5 | | | Completed/Pending |
+| Member 3 | || Completed |
+| Member 4 | | | Completed/Pending |
+| Member 5 | | | Completed/Pending |
+| Member 3 | || Completed |
+| Member 4 | | | Completed/Pending |
+| Member 5 | | | Completed/Pending |
+| Member 3 | || Completed |

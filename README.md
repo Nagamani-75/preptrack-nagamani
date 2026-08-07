@@ -89,3 +89,25 @@ I faced challenges with loop structure and indentation while processing the dail
 
 **How I Solved It:**
 I debugged the program, corrected the loop structure, verified the conditions, and tested the application with different inputs.
+
+
+
+## Code Review Completed
+
+The code was reviewed for readability, input validation, loop logic, and overall functionality. Necessary corrections were made to improve accuracy and maintainability.
+
+## Feedback Received
+
+- Improved variable naming.
+- Corrected loop indentation.
+- Enhanced input validation.
+- Improved output formatting.
+
+
+
+## Improvement Made After Review
+
+- Fixed logical errors in score processing.
+- Improved input validation.
+- Corrected placement readiness conditions.
+- Enhanced report formatting for better readability.

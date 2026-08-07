@@ -118,13 +118,13 @@ The code was reviewed for readability, input validation, loop logic, and overall
 |-------------|---------------------|---------------------------|-------------------|
 | Nagamani P| https://github.com/Nagamani-75 | https://github.com/Nagamani-75/preptrack-nagamani | Completed |
 | V.Veeranjaneyulu |https://github.com/veera5423 |https://github.com/veera5423/preptrack-veera.git | Completed |
-| Member 3 | || Completed |
+| Member 3 | | | Completed/Pending |
 | Member 4 | | | Completed/Pending |
 | Member 5 | | | Completed/Pending |
-| Member 3 | || Completed |
-| Member 4 | | | Completed/Pending |
-| Member 5 | | | Completed/Pending |
-| Member 3 | || Completed |
-| Member 4 | | | Completed/Pending |
-| Member 5 | | | Completed/Pending |
-| Member 3 | || Completed |
+| Member 6 | | | Completed/Pending |
+| Member 7 | | | Completed/Pending |
+| Member 8 | | | Completed/Pending |
+| Member 9 | | | Completed/Pending |
+| Member 10| | |Completed/Pending |
+| Member 11| | |Completed/Pending |
+| Member 12| | |Completed/Pending |

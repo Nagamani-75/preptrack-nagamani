@@ -57,3 +57,35 @@ python3 main.py
 ## Test Result Summary
 
 The application was tested with different input combinations including valid inputs, invalid inputs, absent days, passing scores, failing scores, and critical scores. The program correctly validated user inputs, processed all seven practice days, calculated statistics, and generated the expected placement readiness report.
+
+
+
+## Individual Contribution
+
+**Name:** Nagamani P
+
+**Repository URL:** https://github.com/Nagamani-75/preptrack-nagamani
+
+**My Main Contribution:**
+Developed the complete PrepTrack application and implemented all required functionalities.
+
+**Features I Implemented:**
+- Student profile input
+- Attendance validation
+- Practice score processing
+- Score classification
+- Performance analysis
+- Placement readiness evaluation
+- Final report generation
+
+**Python Concepts I Used:**
+Variables, Loops, Conditional Statements, Boolean Expressions, Input/Output, break, continue, and f-strings.
+
+**Most Difficult Logic:**
+Tracking the highest and lowest scores while processing daily practice scores and implementing placement readiness conditions.
+
+**Problem I Faced:**
+I faced challenges with loop structure and indentation while processing the daily scores.
+
+**How I Solved It:**
+I debugged the program, corrected the loop structure, verified the conditions, and tested the application with different inputs.

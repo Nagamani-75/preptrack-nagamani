@@ -118,8 +118,8 @@ The code was reviewed for readability, input validation, loop logic, and overall
 |-------------|---------------------|---------------------------|-------------------|
 | Nagamani P| https://github.com/Nagamani-75 | https://github.com/Nagamani-75/preptrack-nagamani | Completed |
 | V.Veeranjaneyulu |https://github.com/veera5423 |https://github.com/veera5423/preptrack-veera.git | Completed |
-| Member 3 | | | Completed/Pending |
-| Member 4 | | | Completed/Pending |
+| tejashwini |https://github.com/tejeshwinisheelvanth7-droid |https://github.com/tejeshwinisheelvanth7-droid/preptrack-tejeshwini.s.git | Completed |
+| Vaibhavi | https://github.com/yadavvaibhavi0609-23|https://github.com/yadavvaibhavi0609-23/prpeptrack-vaibhavi.y.git | Completed |
 | Member 5 | | | Completed/Pending |
 | Member 6 | | | Completed/Pending |
 | Member 7 | | | Completed/Pending |
